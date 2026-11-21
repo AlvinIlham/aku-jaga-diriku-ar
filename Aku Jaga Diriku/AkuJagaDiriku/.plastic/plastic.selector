@@ -1,0 +1,4 @@
+repository "AkuJagaDiriku/AkuJagaDiriku@1375275893101@cloud"
+  path "/"
+    br "/main"
+    co "/main"
